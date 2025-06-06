@@ -218,7 +218,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -226,7 +226,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
+scholar:
+  style: apa
+  locale: en
+  source: ./publications/publications.bib
+  
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
