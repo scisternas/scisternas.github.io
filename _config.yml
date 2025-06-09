@@ -26,7 +26,7 @@ author:
   name             : "Sebastián Cisternas"
   pronouns         : "he/him/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Valdivia, CL"
+  location         : "Leeds, UK - Valdivia, CL"
   employer         : "University of Leeds"
   uri              : # URL
   email            : "mflm6779@leeds.ac.uk" 
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
